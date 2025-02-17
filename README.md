@@ -89,3 +89,10 @@ Streamlit App Repository: [https://github.com/Ratana-Sovann/adv_mla_at3_app](htt
 
 - Install packages with versions specified in pyproject.toml to avoid conflicts
 - Each team member's dataset is available in their respective notebook directories
+
+
+### Contributors
+- FM Farhan Faiyaz
+- Ratana Sovann
+- Yee Ting Li
+- Md Sadman Sakib
